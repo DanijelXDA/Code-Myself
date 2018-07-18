@@ -1,0 +1,6 @@
+#ifndef NOSE_HPP_INCLUDED
+#define NOSE_HPP_INCLUDED
+
+
+
+#endif // NOSE_HPP_INCLUDED
