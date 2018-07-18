@@ -1,2 +1,2 @@
-# Code-Myself
+# Code-Myself [DEPRECATED]
 
