@@ -32,6 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="head/Brain.hpp" />
+		<Unit filename="head/Ears.hpp" />
+		<Unit filename="head/Eyes.hpp" />
+		<Unit filename="head/Head.hpp" />
+		<Unit filename="head/Mouth.hpp" />
+		<Unit filename="head/Nose.hpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
