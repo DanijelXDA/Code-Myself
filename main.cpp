@@ -1,5 +1,4 @@
-#include <iostream>
-using namespace std;
+#include "head/Head.hpp"
 
 int main(void)
 {
